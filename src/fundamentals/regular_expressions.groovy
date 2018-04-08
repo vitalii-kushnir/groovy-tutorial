@@ -1,3 +1,5 @@
+package fundamentals
+
 def zip = /\d{5}(-\d{4})?/
 
 println '12345' ==~ zip

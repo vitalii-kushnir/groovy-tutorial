@@ -1,3 +1,5 @@
+package fundamentals
+
 import groovy.transform.Canonical
 
 //@ToString(includeNames = true)

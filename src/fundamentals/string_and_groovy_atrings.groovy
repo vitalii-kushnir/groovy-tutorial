@@ -1,3 +1,4 @@
+package fundamentals
 //it is a java.lang.String
 def s = 'this is a string ${1 + 1}'
 println s
